@@ -1,0 +1,5 @@
+* 7793fb9 Añadir la url de mi pagina web a mi README
+* 7dd4867 Añadir mis aficiones en nuna rama diferente
+* 2809242 Añadir informacion sobre que me gustaria hacer despues
+* fc34aec Creacion de el index.html con explicacion y titulo sobre mi
+* 7cd76fd Creacion del README para explicacion principal del proyecto (Parte A)
